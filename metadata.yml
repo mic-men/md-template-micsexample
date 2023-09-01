@@ -1,21 +1,21 @@
 ---
-name: "My OER Course"
+name: "Mein OER Beispielbuch"
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
+  - givenName: "Michael"
+    familyName: "Menzel"
   - givenName: "Maxi"
     familyName: "Mustermann"
 publisher:
-  givenName: "Max"
-  familyName: "Mustermann"
+  givenName: "Michael"
+  familyName: "Menzel"
 keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
-inLanguage: "en"
+  - "Geometrie"
+  - "Projektion"
+  - "Mathematik"
+description: "Draft for a book"
+inLanguage: "de"
 version: 1.0
 license: "https://creativecommons.org/publicdomain/zero/1.0/"
 thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Course"
+learningResourceType: "Book"
 creativeWorkStatus: "Draft" # Incomplete, Draft, Published
