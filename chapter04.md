@@ -1,13 +1,13 @@
 # Application
 
 * Example
-  Wir können das verwenden im [ZOERR](https://www.oerbw.de)
+  We can offer that authors of OER and publish the repositories and results in [ZOERR](https://www.oerbw.de).
 
 # Assignment
 
 * Example assignment with solution
-  Was ist 17 * 19 ? [^1]
-  Ja, ratter, ratter.
+  What is 17 * 19 ? [^1]
+  Well, ratter, ratter.
 
   [^1]: Lösung: 233
   
